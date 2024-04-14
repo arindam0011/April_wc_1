@@ -2,7 +2,6 @@ body {
     font-family: "Hind Madurai", sans-serif;
     font-weight: 450;
     font-style: normal;
-    padding-left:30%;
   }
   ol{
       margin:0px;
@@ -16,4 +15,7 @@ body {
   img{
     max-height:300px;
     display: flex;
+  }
+  u{
+    text-underline-offset:6px;
   }
